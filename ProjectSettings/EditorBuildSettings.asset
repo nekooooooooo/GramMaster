@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: a510f5988832d284b9c944904a7ef8f0
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1e8b652f273551847a343d5212a5c119
+  - enabled: 1
+    path: Assets/Scenes/Lesson1.unity
+    guid: 1f4a6ec8a8664254296870cfe9016043
+  - enabled: 1
+    path: Assets/Scenes/Lesson2.unity
+    guid: 5ff8c308fccf50f4fb179f59f750c52c
+  - enabled: 1
+    path: Assets/Scenes/Lesson3.unity
+    guid: f455c26ff4ceada49b83e9c2c36ef15f
+  - enabled: 1
+    path: Assets/Scenes/Lesson4.unity
+    guid: 76299a41cba268841bdf6ee55fae2fa2
+  - enabled: 1
+    path: Assets/Scenes/Lesson5.unity
+    guid: 8489a1481c8cf354c95ffb4c1b10ded6
+  - enabled: 1
+    path: Assets/Scenes/Lesson6.unity
+    guid: 420b66b9cc0d8bf4899584f69eb3d84c
+  - enabled: 1
+    path: Assets/Scenes/Unused Scenes/Lesson7.unity
+    guid: fe6745a2c10088b41ba97aabb7881ede
+  - enabled: 1
+    path: Assets/Scenes/Lesson1Easy.unity
+    guid: 1380ccadd6cf96e458def9ac4f1998cc
+  - enabled: 1
+    path: Assets/Scenes/Lesson1Medium.unity
+    guid: 36c37fd130cfc9943a7f0d72669b40b4
+  - enabled: 1
+    path: Assets/Scenes/Lesson1Hard.unity
+    guid: f3b8dcb1c3645a143b7b68bc38e62953
+  - enabled: 1
+    path: Assets/Scenes/Lesson2Easy.unity
+    guid: 431784c5ef20231458b2da23988b3355
+  - enabled: 1
+    path: Assets/Scenes/Lesson2Medium.unity
+    guid: 17d85d2268f7c3345ba070e8cce84dfc
+  - enabled: 1
+    path: Assets/Scenes/Lesson2Hard.unity
+    guid: d5ff9e6f454bf244b8a88d8ed607a191
+  - enabled: 1
+    path: Assets/Scenes/Lesson3Easy.unity
+    guid: 4e636ac22dbb94748b577465249da911
+  - enabled: 1
+    path: Assets/Scenes/Lesson3Medium.unity
+    guid: 79b756233bd46034d82cd9c95c1233b0
+  - enabled: 1
+    path: Assets/Scenes/Lesson3Hard.unity
+    guid: b9dc6bda8b4d8664c9c87e0e71ee0149
+  - enabled: 1
+    path: Assets/Scenes/Lesson4Easy.unity
+    guid: b521e0b5cab09064ea7f8c3eefa27327
+  - enabled: 1
+    path: Assets/Scenes/Lesson4Medium.unity
+    guid: 5cebd3fc113ae0148bdeabe2efb5d8b9
+  - enabled: 1
+    path: Assets/Scenes/Lesson4Hard.unity
+    guid: 85d71e0f8a956ed408a9d1ef6cc9c02f
+  - enabled: 1
+    path: Assets/Scenes/Lesson5Easy.unity
+    guid: 9f7a6d79797c1554496a37de05f8ae60
+  - enabled: 1
+    path: Assets/Scenes/Lesson5Medium.unity
+    guid: 7b799d6cca69b854588aa7072d72e6b7
+  - enabled: 1
+    path: Assets/Scenes/Lesson5Hard.unity
+    guid: 67abf8c0c5b728b49b2ce0e1f7a50ca9
+  - enabled: 1
+    path: Assets/Scenes/Lesson6Easy.unity
+    guid: e9f58b5d339eb2349b72c1febf110834
+  - enabled: 1
+    path: Assets/Scenes/Lesson6Medium.unity
+    guid: 3f701756e10a90d42b47cba278d27465
+  - enabled: 1
+    path: Assets/Scenes/Lesson6Hard.unity
+    guid: 658dded34b3b2594399d0e20d63e2329
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: cd32247ec24a06e45a6397800a3856dc
+  m_configObjects: {}
